@@ -15,4 +15,4 @@
 string.find('string',number)
 ```
 
-`find`类似 js`indexOf`，返回下标，若无则-1，第二个字段是查找的起始位置。
+`find`类似 js`indexOf`，返回下标，若无则-1，第二个字段是查找的起始位置
